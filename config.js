@@ -13,7 +13,7 @@ global.gurl = 'https://instagram.com/itz_shaikho/' // add your username
 global.sudo = process.env.SUDO || '923184070915' 
 global.devs = '94741814721';
 global.website = 'https://github.com/salmanytofficial/XLICON-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3c341828d86ee7a89c73f.jpg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.redd.it/cyberpunk-samurai-4k-3840x2160-by-a-i-v0-21as1xk1kzda1.jpg?s=6cbf3bf99feb933a7158705e1cefdec4046322c0'
 module.exports = {
   sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
   author:  process.env.PACK_AUTHER ||  '',
